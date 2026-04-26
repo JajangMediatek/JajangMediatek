@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JajangMediatek&theme=tokyonight" alt="mystreak"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JajangMediatek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JajangMediatek&theme=tokyonight" alt="mystreak"/>
 </p>
 
 ---
@@ -59,7 +59,6 @@
 ## 📫 Contact Me
 <a href="https://www.linkedin.com/in/aldo-yonanda-firmansyah-610a19362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/sir.aldovii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/playlist/60qszwvTA829owEaD0mhWl?si=38e2e1d461e740b5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:aldoyonandaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ---
