@@ -3,7 +3,8 @@
   💻 Passionate about building real-world web applications <br>
   🚀 Currently focusing on Laravel ecosystem & backend systems
 </p>
-
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 ---
 
 ## 👨‍💻 About Me
@@ -43,7 +44,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://myreadme.vercel.app/api/embed/JajangMediatek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 </p>
 
@@ -58,7 +58,7 @@
 ---
 
 ## 📫 Contact Me
-<a href="https://www.linkedin.com/in/aldo-yonanda-firmansyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/aldo-yonanda-firmansyah-610a19362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/sir.aldovii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/playlist/60qszwvTA829owEaD0mhWl?si=38e2e1d461e740b5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:aldoyonandaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
