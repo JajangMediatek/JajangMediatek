@@ -38,7 +38,7 @@
 ---
 
 ## 📌 Featured Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/JajangMediatek/My-Cashier.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JajangMediatek&repo=My-Cashier)](https://github.com/JajangMediatek/My-Cashier.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/Nurmieai/Ajuin.git)
 
 **Main Features:**
