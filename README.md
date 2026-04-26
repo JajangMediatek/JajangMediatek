@@ -3,14 +3,14 @@
   💻 Passionate about building real-world web applications <br>
   🚀 Currently focusing on Laravel ecosystem & backend systems
 </p>
-<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+<img alt="followers" src="https://img.shields.io/github/followers/JajangMediatek?label=Followers&style=social">
 
 ## 👨‍💻 About Me
 - 🎓 IT Student (Backend-focused)
 - 🧠 Interested in system design, logic, and problem solving
 - ⚙️ Currently working on **PKL Submission System (Laravel 12 + Livewire 3)**
-- 🐧 Linux user (Linux Mint XFCE)
-- 📚 Learning philosophy & critical thinking (yes, coding + thinking deeply)
+- 🐧 Linux user
+- 📚 Likes Learning new things
 
 ---
 
@@ -41,10 +41,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JajangMediatek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JajangMediatek&theme=tokyonight" alt="mystreak"/>
+<hr/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JajangMediatek&theme=tokyonight" alt="mystreak"/>
 </p>
 
 ---
