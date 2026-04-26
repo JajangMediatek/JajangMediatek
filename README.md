@@ -38,8 +38,8 @@
 ---
 
 ## 📌 Featured Project
-### 🏫 Ajuin — PKL Submission System
-> A web-based system for managing internship submissions (PKL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/JajangMediatek/My-Cashier.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/Nurmieai/Ajuin.git)
 
 **Main Features:**
 - 🔐 Role-based access (Guru & Siswa)
@@ -67,7 +67,8 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/JajangMediatek
+- Email : aldoyonandaf@gmail.com
 
 ---
 
