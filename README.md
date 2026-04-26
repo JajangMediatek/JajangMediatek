@@ -3,7 +3,8 @@
   💻 Passionate about building real-world web applications <br>
   🚀 Currently focusing on Laravel ecosystem & backend systems
 </p>
-<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social"><img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+<a><img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social"></a>
+<a><img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars"></a>
 ---
 
 ## 👨‍💻 About Me
