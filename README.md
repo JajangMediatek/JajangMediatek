@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 IT Student (Backend-focused)
 - 🧠 Interested in system design, logic, and problem solving
-- ⚙️ Currently working on **PKL Submission System (Laravel 12 + Livewire 3)**
+- ⚙️ Currently working on **Libarary API (Express JS + NodeJS)**
 - 🐧 Linux user
 - 📚 Likes Learning new things
 
@@ -18,6 +18,8 @@
 ### 💻 Backend
 - Laravel (12)
 - PHP
+- NodeJS
+- Express JS
 
 ### 🎨 Frontend
 - HTML, CSS, JavaScript (basic)
@@ -30,8 +32,7 @@
 ### ⚙️ Tools & Environment
 - Git & GitHub
 - Linux (Mint XFCE)
-- VS Code
-
+  
 ---
 
 ## 📌 Featured Project
